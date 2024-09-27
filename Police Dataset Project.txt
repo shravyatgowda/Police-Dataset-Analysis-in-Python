@@ -1,0 +1,15 @@
+Police Dataset Project:
+
+In this project, we'll use:
+
+import pandas as pd
+pd.read_csv
+
+1. head()
+2.isnull()
+3. drop()
+4. value_counts
+5. groupby()
+6. map()
+7. mean()
+8. describe()
